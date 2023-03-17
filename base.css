@@ -99,7 +99,7 @@
    border-radius: 0;
  }
 
- .layerContainer-2v_Sit .layer-2aCOJ3 .container-2McqkF {
+ .layerContainer-2lfOPe .layer-2aCOJ3 .container-2McqkF {
      background: var(--primary-color) !important;
  }
 
@@ -108,88 +108,88 @@
  }
 
  /* Calendar in search input */
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker {
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker {
      background: rgba(var(--primary), 0.2);
  }
 
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month-container {
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month-container {
      background: rgba(var(--primary), 0.2);
  }
 
  /* Calendar header */
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker .react-datepicker__header {
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker .react-datepicker__header {
      background: var(--light-primary-color);
      border-bottom: 1px solid var(--neon-red-color);
      color: var(--neon-green-color) !important;
  }
 
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker .react-datepicker__week div[aria-disabled="true"] {
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker .react-datepicker__week div[aria-disabled="true"] {
      background: rgba(var(--red), 0.05);
  }
 
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month div {
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month div {
      color: var(--neon-blue-color);
  }
 
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month div[aria-disabled="true"] {
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month div[aria-disabled="true"] {
      color: rgba(var(--red), 0.5);
  }
 
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month .react-datepicker__day--outside-month {
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker .react-datepicker__month .react-datepicker__day--outside-month {
      background: rgba(var(--green), 0.25);
  }
 
- .layerContainer-2v_Sit .calendarPicker-sDhzdi .react-datepicker .react-datepicker__current-month .react-datepicker__day span{
+ .layerContainer-2lfOPe .calendarPicker-sDhzdi .react-datepicker .react-datepicker__current-month .react-datepicker__day span{
      color: var(--neon-green-color) !important;
  }
 
 /* Mailbox popup */
-.layerContainer-2v_Sit .container-2ebMPP {
+.layerContainer-2lfOPe .container-2ebMPP {
     background: var(--light-primary-color);
  }
 
-.layerContainer-2v_Sit .container-2ebMPP .header-145e10 {
+.layerContainer-2lfOPe .container-2ebMPP .header-145e10 {
     background: var(--primary-color);
     border-bottom: 1px solid var(--neon-red-color);
 }
 
 /* Top right bar quotes */
-.layerContainer-2v_Sit .browser-mnQ1T7 {
+.layerContainer-2lfOPe .browser-mnQ1T7 {
     background: var(--light-primary-color);
 }
 
-.layerContainer-2v_Sit .header-3_zmOb {
+.layerContainer-2lfOPe .header-3_zmOb {
     background: var(--primary-color);
     border-bottom: 1px solid var(--neon-red-color);
 }
 
-.layerContainer-2v_Sit .container-2c4_8A > button {
+.layerContainer-2lfOPe .container-2c4_8A > button {
     background: var(--neon-red-color);
 }
 
-.layerContainer-2v_Sit .container-2c4_8A > button:hover {
+.layerContainer-2lfOPe .container-2c4_8A > button:hover {
     background: var(--light-neon-red-color);
 }
 
-.layerContainer-2v_Sit .header-3_zmOb button {
+.layerContainer-2lfOPe .header-3_zmOb button {
     background: var(--neon-red-color);
 }
 
-.layerContainer-2v_Sit .header-3_zmOb button:hover {
+.layerContainer-2lfOPe .header-3_zmOb button:hover {
     background: var(--light-neon-red-color);
 }
 
 /* Pinned messages popup */
-.layerContainer-2v_Sit .messagesPopoutWrap-3zryHW {
+.layerContainer-2lfOPe .messagesPopoutWrap-3zryHW {
     background: var(--light-primary-color);
 }
 
-.layerContainer-2v_Sit .header-1w9Q93,
-.layerContainer-2v_Sit .footer-5ji8u1 {
+.layerContainer-2lfOPe .header-1w9Q93,
+.layerContainer-2lfOPe .footer-5ji8u1 {
     background: var(--primary-color);
 }
 
-.layerContainer-2v_Sit .messageGroupCozy-3v_RqN {
+.layerContainer-2lfOPe .messageGroupCozy-3v_RqN {
     background: black;
 }
 
@@ -228,42 +228,42 @@
  }
 
 /* Server options popup */
- .layerContainer-2v_Sit .layer-2aCOJ3 .menu-1QACrS {
+ .layerContainer-2lfOPe .layer-2aCOJ3 .menu-1QACrS {
      background: var(--primary-color);
      border: 1px solid var(--neon-red-color);
      border-top-right-radius: 0;
      border-top-left-radius: 0;
  }
 
- .layerContainer-2v_Sit .layer-2aCOJ3 .menu-1QACrS .separator-1So4YB {
+ .layerContainer-2lfOPe .layer-2aCOJ3 .menu-1QACrS .separator-1So4YB {
      background: var(--light-neon-red-color);
  }
 
 /* Hovered item in server settings popup */
- .layerContainer-2v_Sit .layer-2aCOJ3 .menu-1QACrS .focused-3qFvc8 {
+ .layerContainer-2lfOPe .layer-2aCOJ3 .menu-1QACrS .focused-3qFvc8 {
      background: var(--light-neon-red-color);
  }
 
 /* Invite people option */
- .layerContainer-2v_Sit .layer-2aCOJ3 .menu-1QACrS .colorBrand-3cPPsm {
+ .layerContainer-2lfOPe .layer-2aCOJ3 .menu-1QACrS .colorBrand-3cPPsm {
      color: var(--neon-blue-color);
  }
 
 /* Invite people popup */
- .layerContainer-2v_Sit .wrapper-3ByaVZ .modal-atz_3z{
+ .layerContainer-2lfOPe .wrapper-3ByaVZ .modal-atz_3z{
      background: var(--light-primary-color);
  }
 
- .layerContainer-2v_Sit .wrapper-3ByaVZ .flex-2S1XBF {
+ .layerContainer-2lfOPe .wrapper-3ByaVZ .flex-2S1XBF {
      background: var(--dark-primary-color);
  }
 
  /* Server  options popups header */
- .layerContainer-2v_Sit .focusLock-2tveLW .modal-1Kmy_E .header-o8wV_s h2 {
+ .layerContainer-2lfOPe .focusLock-2tveLW .modal-1Kmy_E .header-o8wV_s h2 {
      color: var(--neon-blue-color);
  }
 
- .layerContainer-2v_Sit .layer-1Ixpg3 .flexChild-3PzYmX h3 {
+ .layerContainer-2lfOPe .layer-1Ixpg3 .flexChild-3PzYmX h3 {
      color: var(--neon-blue-color);
  }
 
@@ -387,7 +387,7 @@
 }
 
 /* Delete message popup */
-.layerContainer-2v_Sit .layer-1Ixpg3 .message-G6O-Wv {
+.layerContainer-2lfOPe .layer-1Ixpg3 .message-G6O-Wv {
     background: none;
 }
 
@@ -627,86 +627,86 @@
     PROFILE POPUP INFORMATIONS
    ===============
 */
-.layerContainer-2v_Sit .userPopoutInner-1hXSeY {
+.layerContainer-2lfOPe .userPopoutInner-1hXSeY {
     background: var(--primary-color);
 }
 
-.layerContainer-2v_Sit .banner-2boKnS {
+.layerContainer-2lfOPe .banner-2boKnS {
     border-bottom: 1px solid var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi {
     background: var(--dark-primary-color);
 }
 
-.layerContainer-2v_Sit .profileBadges-31rDHI {
+.layerContainer-2lfOPe .profileBadges-31rDHI {
     background: var(--dark-primary-color);
 }
 
-.layerContainer-2v_Sit .divider-1tWBgZ {
+.layerContainer-2lfOPe .divider-1tWBgZ {
     background: var(--light-neon-red-color);
 }
 
 /* About me */
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .markup-eYLPri > div {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .markup-eYLPri > div {
     color: var(--light-neon-blue-color);
 }
 
 /* Member since */
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .memberSinceContainer-3biwiY svg {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .memberSinceContainer-3biwiY svg {
     color: var(--neon-green-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .memberSinceContainer-3biwiY .body-2Fhyoo {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .memberSinceContainer-3biwiY .body-2Fhyoo {
     color: var(--light-neon-green-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .userText-148fun h2,
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .userText-148fun .userTagNoNickname-2MJ9HD span {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .userText-148fun h2,
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .userText-148fun .userTagNoNickname-2MJ9HD span {
     color: var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .userText-148fun .userTagNoNickname-2MJ9HD span:nth-child(2) {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .userText-148fun .userTagNoNickname-2MJ9HD span:nth-child(2) {
     color: var(--light-neon-blue-color);
 }
 
 /* Spotify - user popup */
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .button-TGAkj4 {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .button-TGAkj4 {
     background: var(--dark-neon-green-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .timeBarUserPopoutV2-32DL06 .barInner-3dHef4 {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .timeBarUserPopoutV2-32DL06 .barInner-3dHef4 {
     background: var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .content-tXPNDw {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .content-tXPNDw {
     color: var(--neon-green-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .content-tXPNDw a {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .content-tXPNDw a {
     color: var(--neon-blue-color);
 }
 
 /* User popup - streaming to x-channel */
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .overflow-1wOqNV {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .overflow-1wOqNV {
     color: var(--neon-red-color);
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi .userText-148fun .userTagWithNickname-3-znkC span {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi .userText-148fun .userTagWithNickname-3-znkC span {
     color: var(--light-neon-blue-color);
 }
 
-.layerContainer-2v_Sit .section-3FmfOT .role-2TIOKu {
+.layerContainer-2lfOPe .section-3FmfOT .role-2TIOKu {
     border-bottom: 1px solid red;
 }
 
-.layerContainer-2v_Sit .overlayBackground-1KgwVi h3[data-text-variant="eyebrow"] {
+.layerContainer-2lfOPe .overlayBackground-1KgwVi h3[data-text-variant="eyebrow"] {
     color: var(--neon-red-color);
 }
 
 /* Playing a game */
-.layerContainer-2v_Sit .activityUserPopoutV2-3eKqzY .bodyNormal-250CQK .contentImagesUserPopoutV2-2Mcg9w .activityName-3YXl6e,
-.layerContainer-2v_Sit .activityUserPopoutV2-3eKqzY .bodyNormal-250CQK .contentImagesUserPopoutV2-2Mcg9w .details-2-ciHo{
+.layerContainer-2lfOPe .activityUserPopoutV2-3eKqzY .bodyNormal-250CQK .contentImagesUserPopoutV2-2Mcg9w .activityName-3YXl6e,
+.layerContainer-2lfOPe .activityUserPopoutV2-3eKqzY .bodyNormal-250CQK .contentImagesUserPopoutV2-2Mcg9w .details-2-ciHo{
     color: var(--neon-blue-color);
 }
 
@@ -725,44 +725,44 @@
     color: var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .root-8LYsGj {
+.layerContainer-2lfOPe .root-8LYsGj {
     border-bottom: 1px solid var(--light-neon-red-color);
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     font-family: var(--font-primary);
 }
 
-.layerContainer-2v_Sit .body-1Ukv50 {
+.layerContainer-2lfOPe .body-1Ukv50 {
     background: rgba(0,0,0, 0.5);
 }
 
-.layerContainer-2v_Sit .body-1Ukv50 .userInfoSection-2u2hir > h3 {
+.layerContainer-2lfOPe .body-1Ukv50 .userInfoSection-2u2hir > h3 {
     font-family: var(--font-primary);
 }
 
-.layerContainer-2v_Sit .body-1Ukv50 .connectedAccounts-fvr7-7 .connectedAccountsColumn-2LgTkZ {
+.layerContainer-2lfOPe .body-1Ukv50 .connectedAccounts-fvr7-7 .connectedAccountsColumn-2LgTkZ {
     border-bottom: 1px solid var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .body-1Ukv50 .connectedAccounts-fvr7-7 .connectedAccountsColumn-2LgTkZ div {
+.layerContainer-2lfOPe .body-1Ukv50 .connectedAccounts-fvr7-7 .connectedAccountsColumn-2LgTkZ div {
     background: var(--primary-color);
 }
 
-.layerContainer-2v_Sit .body-1Ukv50 .connectedAccountContainer-3aLMHJ {
+.layerContainer-2lfOPe .body-1Ukv50 .connectedAccountContainer-3aLMHJ {
     background: var(--primary-color);
 }
 
-.layerContainer-2v_Sit .nameTag-2Nlmsy {
+.layerContainer-2lfOPe .nameTag-2Nlmsy {
     font-family: var(--font-primary);
     font-weight: bold;
 }
 
-.layerContainer-2v_Sit .tabBarContainer-sCZC4w .item-3XjbnG  {
+.layerContainer-2lfOPe .tabBarContainer-sCZC4w .item-3XjbnG  {
     font-weight: bold;
 
 }
 
-.layerContainer-2v_Sit .body-1Ukv50 .userInfoSection-2u2hir a {
+.layerContainer-2lfOPe .body-1Ukv50 .userInfoSection-2u2hir a {
     color: var(--neon-green-color);
 }
 
@@ -772,14 +772,14 @@
 }
 
 /* Adding roles popup */
-.layerContainer-2v_Sit .container-2O1UgZ {
+.layerContainer-2lfOPe .container-2O1UgZ {
     background: var(--primary-color);
     border: 1px solid var(--neon-red-color);
     border-radius: 0;
 }
 
 /* User roles badges */
-.layerContainer-2v_Sit .layer-2aCOJ3 .rolesList-3uZoaa .role-2TIOKu {
+.layerContainer-2lfOPe .layer-2aCOJ3 .rolesList-3uZoaa .role-2TIOKu {
     border-bottom: 1px solid var(--dark-primary-color);
 }
 
@@ -980,51 +980,51 @@
     SERVER BOOST PAGE
    ===============
 */
-.layerContainer-2v_Sit .perksModal-CLcR1c {
+.layerContainer-2lfOPe .perksModal-CLcR1c {
     background: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%);
 }
 
 /* Server boost header */
-.layerContainer-2v_Sit .perksModal-CLcR1c .perksModalContentWrapper-3RHugb .headerLogo-2M4f14 {
+.layerContainer-2lfOPe .perksModal-CLcR1c .perksModalContentWrapper-3RHugb .headerLogo-2M4f14 {
     color: var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .perksModal-CLcR1c .perksModalContentWrapper-3RHugb .actions-b9dB88 .shinyButton-2Q9MDB {
+.layerContainer-2lfOPe .perksModal-CLcR1c .perksModalContentWrapper-3RHugb .actions-b9dB88 .shinyButton-2Q9MDB {
     background: var(--neon-red-color);
 }
 
-.layerContainer-2v_Sit .perksModal-CLcR1c .perksModalContentWrapper-3RHugb .actions-b9dB88 .shinyButton-2Q9MDB:hover {
+.layerContainer-2lfOPe .perksModal-CLcR1c .perksModalContentWrapper-3RHugb .actions-b9dB88 .shinyButton-2Q9MDB:hover {
     background: var(--light-neon-red-color);
 }
 
 /* Nitro levels progress bar */
-.layerContainer-2v_Sit .perksModal-CLcR1c .content-2O_Vsy .progressBar-20NUv9 div:first-child{
+.layerContainer-2lfOPe .perksModal-CLcR1c .content-2O_Vsy .progressBar-20NUv9 div:first-child{
     background: var(--neon-red-color);
 }
 
 /* Nitro selected level */
-.layerContainer-2v_Sit .perksModal-CLcR1c .content-2O_Vsy .progressBar-20NUv9 .tierMarkerContainer-18QTgJ .tierMarker-Vw1C95 {
+.layerContainer-2lfOPe .perksModal-CLcR1c .content-2O_Vsy .progressBar-20NUv9 .tierMarkerContainer-18QTgJ .tierMarker-Vw1C95 {
     background: var(--light-neon-red-color) !important;
 }
 
-.layerContainer-2v_Sit .perksModal-CLcR1c .content-2O_Vsy .progressBar-20NUv9 .tierMarkerContainer-18QTgJ .tierMarkerLabelPlusIcon-2zLkr7 {
+.layerContainer-2lfOPe .perksModal-CLcR1c .content-2O_Vsy .progressBar-20NUv9 .tierMarkerContainer-18QTgJ .tierMarkerLabelPlusIcon-2zLkr7 {
     color: var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .perksModal-CLcR1c .content-2O_Vsy h3 {
+.layerContainer-2lfOPe .perksModal-CLcR1c .content-2O_Vsy h3 {
     color: var(--neon-blue-color);
 }
 
-.layerContainer-2v_Sit .perksModal-CLcR1c .carouselContainer-3eVO-H .tierHeader-wgo0w_ {
+.layerContainer-2lfOPe .perksModal-CLcR1c .carouselContainer-3eVO-H .tierHeader-wgo0w_ {
     background: linear-gradient(90deg, rgba(125,0,5,1) 0%, rgba(0,0,0,1) 100%);
 }
 
-.layerContainer-2v_Sit .perksModal-CLcR1c .carouselContainer-3eVO-H .tierBody-3ju-rc {
+.layerContainer-2lfOPe .perksModal-CLcR1c .carouselContainer-3eVO-H .tierBody-3ju-rc {
     background: var(--dark-primary-color);
 }
 
 /* Nitro awards */
-.layerContainer-2v_Sit .perksModal-CLcR1c .content-2O_Vsy .perks-BtAudq > li {
+.layerContainer-2lfOPe .perksModal-CLcR1c .content-2O_Vsy .perks-BtAudq > li {
     background: var(--dark-primary-color);
     border: 1px solid var(--neon-red-color);
 }
